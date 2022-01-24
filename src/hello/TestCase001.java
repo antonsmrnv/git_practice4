@@ -6,5 +6,6 @@ public class TestCase001 {
 
         System.out.println("Hello, world!");
         System.out.println("Java baby");
+        System.out.println("We out");
     }
 }
