@@ -7,5 +7,7 @@ public class TestCase003 {
         System.out.println("Blah blah text");
         System.out.println("more text for commit");
         System.out.println("also more stuff");
+
+        //these are the changes from intellij
     }
 }
